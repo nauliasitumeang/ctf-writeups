@@ -36,4 +36,4 @@ and digital forensics.
   tools, commands, and screenshots
 
 ---
-*Written by Naulia Situmeang
+*Written by Naulia Situmeang*
