@@ -34,6 +34,8 @@ and digital forensics.
 
 - `GDGoC-Cybersecurity-Pathway-Final-Project.pdf`: full writeup with methodology,
   tools, commands, and screenshots
+- [`scripts/`](./scripts): Python solver scripts for the cryptography and
+  reverse engineering challenges
 
 ---
 *Written by Naulia Situmeang*
